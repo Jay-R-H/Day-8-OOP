@@ -1,0 +1,13 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«˜½ï
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï¨ÏØ
+?
+java:S2140"")Use "java.util.Random.nextInt()" instead.(Éœúé
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(àÒ‘Àûÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(àÒ‘Àûÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(àÒ‘Àûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(¥æÕíûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(÷™”Äûÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ãŸéªûÿÿÿÿ
+x
+java:S1192*"]Define a constant instead of duplicating this literal "The employee has worked for " 3 times.(àÒ‘Àûÿÿÿÿ
